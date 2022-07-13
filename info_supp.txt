@@ -1,0 +1,12 @@
+Ventes Produits boissons
+Abonnement ,
+Identifiant par code barre , nom, prénom
+
+
+Q :
+Quelle est la différence entre un client inscrit et abonné ?
+25k inscrit 1 mois gratuit
+Dans la feuille data, tracking du pointage , c’est quoi ?
+Init 
+Qui fait l’insrc
+Activités des clients ?
